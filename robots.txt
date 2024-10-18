@@ -1,9 +1,6 @@
 User-agent: *
-Disallow: /portfolio.html
-
-User-agent: *
 Allow: /
-# robots.https://webstudio-xi.vercel.app/.com
+# robots.txt for https://webstudio-xi.vercel.app/
 
 # Delay for all crawlers to prevent server overload
 Crawl-delay: 10
@@ -14,4 +11,4 @@ Allow: /
 Crawl-delay: 5
 
 # Sitemap location
-Sitemap: https://webstudio-xi.vercel.app/.xml
+Sitemap: https://webstudio-xi.vercel.app/sitemap.xml
